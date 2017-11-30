@@ -1,0 +1,40 @@
+Sample chemical hazard incident strings
+
+A mixture of acetone and chloroform in a residue bottle exploded. Since addition of chloroform to acetone in presence of a base will result in a highly exothermic reaction, it is thought that a base may have been in the bottle.
+
+Phosphine, hydrogen sulfide, and selenide all ignite when fuming nitric acid is dripped into the gas. 
+Mixtures of fuming nitric acid and acetonitrile are explosive.
+
+Hydrogen telluride ignites with cold concentrated nitric acid, sometimes exploding.
+
+Frozen bromine trifluoride reacts violently with toluene at -80 deg C.
+
+Allyl chloride or other alkyl halides will react vigorously with benzene or toluene, even at minus 70 C in the presence of ethyl aluminum dichloride or ethyl aluminum sesquichloride. Explosions have been reported.
+
+A 2% solution /dioxygen difluoride/ in hydrogen fluoride ignites solid benzene at -78 deg C.
+
+A mixture of aluminum powder with ammonium persulfate powder and water may cause an explosion.
+
+Aluminum powder burns in chlorine, even at 20 deg C.
+
+Heating cyclopentanone oxime with 85% sulfuric acid to effect the Beckmann rearrangement caused eruption of the stirred flask contents.
+
+A mixture of acetonitrile and sulfuric acid on heating (or self heating) to 53 deg C underwent an uncontrollable exotherm to 160 deg C in a few seconds. The presence of 28 mol % of sulfur trioxide reduces the initiation temperature to about 15 deg C. Polymerization of acetonitrile is suspected.
+
+Acetone ignited when it was accidentally splashed into a sulfuric acid-dichromate solution.
+
+Mixing acetic anhydride and 96% sulfuric acid in a closed container caused the temperature and pressure to increase.
+
+A dilute aqueous solution of sulfuric acid reacts with sodium with explosive violence.
+
+Moist silver permanganate stored for drying in a desiccator over sulfuric acid under vacuum produced a strong explosion.
+
+The violent reaction which occurred on dissolution of the anhydrous salt in acetonitrile did not occur with the hydrated salt /of iron(III) perchlorate/.
+
+Shaking a slow-reacting mixture /of dinitrogen tetraoxide, acetonitrile and indium/ caused detonation, attributed to indium-catalysed oxidation of acetonitrile.
+
+When heated to decomposition, acetonitrile produces deadly toxic hydrogen cyanide gas and oxides of nitrogen.
+
+When fluorine was condensed onto acetonitrile and chlorine fluoride frozen at -196 deg C, a small explosion occurred in the reactor.
+
+
